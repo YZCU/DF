@@ -1,6 +1,6 @@
 # [DF](https://ieeexplore.ieee.org/document/9803284)
 
-Codes for "**Single Object Tracking in Satellite Videos: A Correlation Filter-Based Dual-Flow Tracker**", 
+The official implementation for "**Single Object Tracking in Satellite Videos: A Correlation Filter-Based Dual-Flow Tracker**", 
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), 2022.
 
 - Authors: 
