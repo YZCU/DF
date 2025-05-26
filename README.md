@@ -1,18 +1,24 @@
-# [DF](https://ieeexplore.ieee.org/document/9803284)
+--------------------------------------------------------------------------------------
+### [**DF**](https://ieeexplore.ieee.org/document/9803284)
 
-The official implementation for "**Single Object Tracking in Satellite Videos: A Correlation Filter-Based Dual-Flow Tracker**", 
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), 2022.
+- The implementation for "**Single Object Tracking in Satellite Videos: A Correlation Filter-Based Dual-Flow Tracker**".
+- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), 2022.
+--------------------------------------------------------------------------------------
+:running:Keep updating:running::
+- Results of DF on [SatSOT](https://ieeexplore.ieee.org/document/9672083) have been released.
+- Results of DF on [SV248S](https://ieeexplore.ieee.org/document/9875020) have been released.
+- Results of DF on [OOTB](https://www.sciencedirect.com/science/article/pii/S0924271624000856) have been released.
+--------------------------------------------------------------------------------------
+| Benchmark | DF (PR / SR / NPR)|
+| ------------------------------ | ------------------- |
+| [SatSOT](https://ieeexplore.ieee.org/document/9672083) |0.560 / 0.436 /|
+| [SV248S](https://ieeexplore.ieee.org/document/9875020) |0.837 / 0.525 /|
+| [OOTB](https://www.sciencedirect.com/science/article/pii/S0924271624000856) |0.758 / 0.623 / 0.747|
 
-- Authors: 
-[Yuzeng Chen](https://yzcu.github.io/), 
-[Yuqi Tang*](https://faculty.csu.edu.cn/yqtang/zh_CN/zdylm/66781/list/index.htm),
-Zhiyong Yin,
-[Te Han](https://github.com/rshante0426),
-[Bin Zou](https://faculty.csu.edu.cn/binzou/zh_CN/index.htm), and 
-[Huihui Feng](https://faculty.csu.edu.cn/fenghuihui/zh_CN/index/62683/list/index.htm)
-- Central South University and Key Laboratory of Metallogenic Prediction of Nonferrous Metals and Geological Environment Monitoring
+--------------------------------------------------------------------------------------
+
 ## Usage
-- We've updated and embedded DF tracker into the [OOTB](https://github.com/YZCU/OOTB) project
+- We have updated and embedded DF tracker into the [OOTB](https://github.com/YZCU/OOTB) project
 - OOTB is a benchmark including oriented satellite video datasets and evaluation benchmark
 - Codes for DF tracker is in the path `\tracker_benchmark_v1.0\trackers\DF`
 - Download the related OOTB dataset on [Baidu Cloud Disk (code: OOTB)](https://pan.baidu.com/s/11hsA4pOliwA1FpOqNol93w)
