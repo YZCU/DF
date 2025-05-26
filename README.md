@@ -2,7 +2,7 @@
 ### [**DF**](https://ieeexplore.ieee.org/document/9803284)
 
 - The implementation for "**Single Object Tracking in Satellite Videos: A Correlation Filter-Based Dual-Flow Tracker**".
-- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), 2022.
+- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022.
 --------------------------------------------------------------------------------------
 :running:Keep updating:running::
 - Results of [DF on SatSOT](https://github.com/YZCU/DF/blob/main/rect_result%20of%20DF.zip) have been released.
