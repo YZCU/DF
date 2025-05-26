@@ -5,9 +5,9 @@
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), 2022.
 --------------------------------------------------------------------------------------
 :running:Keep updating:running::
-- Results of DF on [SatSOT](https://ieeexplore.ieee.org/document/9672083) have been released.
-- Results of DF on [SV248S](https://ieeexplore.ieee.org/document/9875020) have been released.
-- Results of DF on [OOTB](https://www.sciencedirect.com/science/article/pii/S0924271624000856) have been released.
+- Results of [DF on SatSOT](https://github.com/YZCU/DF/blob/main/rect_result%20of%20DF.zip) have been released.
+- Results of [DF on SV248S](https://github.com/YZCU/DF/blob/main/rect_result%20of%20DF.zip) have been released.
+- Results of [DF on OOTB](https://github.com/YZCU/DF/blob/main/rect_result%20of%20DF.zip) have been released.
 --------------------------------------------------------------------------------------
 | Benchmark | DF (PR / SR / NPR)|
 | ------------------------------ | ------------------- |
